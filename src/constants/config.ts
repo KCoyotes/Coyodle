@@ -1,6 +1,6 @@
 export const CONFIG = {
   tries: 6, // This changes how many tries you get to finish the wordle
-  language: 'Current Yotes Players', // This changes the display name for your language
+  language: 'Current Coyotes Players', // This changes the display name for your language
   wordLength: 6, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'Kevin Thompson', // Put your name here so people know who made this Wordle!
   authorWebsite: 'https://kcoyotes.github.io/Coyodle/', // Put a link to your website or social media here
