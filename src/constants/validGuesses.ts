@@ -11,6 +11,7 @@ export const VALIDGUESSES = [
     'mcbain',
     'dineen',
     'sateri',
+    'howler',
 ]
 
 if (CONFIG.normalization) {
